@@ -19,5 +19,5 @@ Sumatorio de dos números.
 }
 \examples{
 suma.dos.numeros(12, 3)
-suma.dos.numeros(10.8, 1.3)
+suma.dos.numeros(10.8, -13.2)
 }

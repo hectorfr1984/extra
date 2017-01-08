@@ -18,8 +18,8 @@ La suma de \code{x} e \code{y}.
 Sumatorio de dos números.
 }
 \examples{
-suma.dos.numeros(12, 3) 
-suma.dos.numeros(10.8, -13.2)
-
-
+  \dontrun{
+  suma.dos.numeros(12, 3) 
+  suma.dos.numeros(10.8, -13.2)
+ }
 }

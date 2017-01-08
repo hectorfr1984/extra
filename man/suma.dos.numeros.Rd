@@ -14,12 +14,10 @@ suma.dos.numeros(x, y)
 \value{
 La suma de \code{x} e \code{y}.
 }
-\description{
-Sumatorio de dos números.
-}
 \examples{
-  \dontrun{
   suma.dos.numeros(12, 3) 
   suma.dos.numeros(10.8, -13.2)
- }
+}
+\description{
+Sumatorio de dos números.
 }

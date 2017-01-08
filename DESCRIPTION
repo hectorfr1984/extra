@@ -1,7 +1,7 @@
 Package: extra
 Title: Funciones para el ejercicio extra de la practica de Preparacion de Datos R U-tad
 Version: 0.0.0.9
-Authors@R: person(Hector, Fernandez, email = hectorfr1984@gmail.com, role = c("aut", "cre"))
+Authors@R: person("Hector", "Fernandez", email = "hectorfr1984@gmail.com", role = c("aut", "cre"))
 Description: Funciones para el ejercicio extra de la practica de Preparacion de Datos R U-tad.
 Depends: R (>= 3.3.2)
 License: What license is it under?

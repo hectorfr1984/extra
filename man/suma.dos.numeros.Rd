@@ -16,7 +16,7 @@ La suma de \code{x} e \code{y}.
 }
 \examples{
   suma.dos.numeros(12, 3) 
-  suma.dos.numeros(10.8, -13.2)
+  suma.dos.numeros(10.8, -13.3)
 }
 \description{
 Sumatorio de dos números.
